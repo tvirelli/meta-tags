@@ -1,5 +1,5 @@
 {
-    "name": "lukaswhite/meta-tags",
+    "name": "tvirelli/meta-tags",
     "description": "A PHP class for managing meta tags",
     "type": "library",
     "license": "MIT",
